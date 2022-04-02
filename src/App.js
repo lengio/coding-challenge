@@ -7,18 +7,15 @@ function App() {
     <div className="App">
       <Data/>
       <header className="App-header">
+      <p>
+          CODING CHALLENGE
+          <br/>
+          MADE BY RANDY ROJAS 
+        </p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Review web console to see the data results
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
